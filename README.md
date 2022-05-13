@@ -1,1 +1,2 @@
 # jonicsamo
+pierwsza zmiana
